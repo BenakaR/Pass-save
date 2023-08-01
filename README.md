@@ -15,6 +15,6 @@ There are:
 -  The length of Random Password and the Login Password can be changed in the Edit menu.
 -  Also all the data can be deleted as well from Edit Menu.
 -  You cannot add an entry if the website name already exists.
--  The data will be saved in data.svb file once the application is run for the first time.
+-  The data will be saved in data.svf file once the application is run for the first time.
 
 I've added all features I could think of. Feel free to edit it or use it in your next project.
